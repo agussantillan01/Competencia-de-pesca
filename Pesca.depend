@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1622930500 source:c:\users\1\documents\agus\tp integrador\pesca\main.cpp
+	<iostream>
+	"rlutil.h"
+	"funciones.h"
+
+1622841258 c:\users\1\documents\agus\tp integrador\pesca\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622939486 source:c:\users\1\documents\agus\tp integrador\pesca\funciones.cpp
+	<iostream>
+	"rlutil.h"
+	"funciones.h"
+
+1622935921 c:\users\1\documents\agus\tp integrador\pesca\funciones.h
+
